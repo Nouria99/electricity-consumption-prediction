@@ -7,12 +7,9 @@ Sure! Here's a clear and easy-to-read bullet point version of your GitHub projec
 ### 🔍 Project Description
 
 * Built a machine learning model to predict monthly household electricity consumption using Python
-* Followed the complete data science workflow: from data cleaning and feature engineering to model evaluation
-* Handled missing values using statistical imputation and addressed outliers for cleaner input
+* Cleaned and preprocessed real-world energy data
 * Engineered new features such as energy consumption per square meter and occupants per square meter
-* Applied data preprocessing techniques including standardization and one-hot encoding
 * Developed and compared three models: Linear Regression, Ridge Regression, and Lasso Regression
-* Selected **Lasso Regression** as the final model for its simplicity and strong performance (R² ≈ 0.85)
 * Used cross-validation and multiple performance metrics (R², RMSE) for evaluation
 * Presented results with visualizations for better interpretability
 
