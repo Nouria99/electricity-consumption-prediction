@@ -1,6 +1,5 @@
 # electricity-consumption-prediction
 Regression modelling using Python to predict monthly household electricity usage
-Sure! Here's a clear and easy-to-read bullet point version of your GitHub project description:
 
 ---
 
