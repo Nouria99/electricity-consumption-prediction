@@ -1,6 +1,6 @@
 # electricity-consumption-prediction
 Regression modelling using Python to predict monthly household electricity usage
-
+Go to https://github.com/Nouria99/electricity-consumption-prediction/blob/main/Electricity-Consumption-Prediction.ipynb
 ---
 
 ### 🔍 Project Description
