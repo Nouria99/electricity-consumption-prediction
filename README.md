@@ -3,7 +3,7 @@ Regression modelling using Python to predict monthly household electricity usage
 Go to https://github.com/Nouria99/electricity-consumption-prediction/blob/main/Electricity-Consumption-Prediction.ipynb
 ---
 
-### 🔍 Project Description
+###  Project Description
 
 * Built a machine learning model to predict monthly household electricity consumption using Python
 * Cleaned and preprocessed real-world energy data
@@ -13,7 +13,7 @@ Go to https://github.com/Nouria99/electricity-consumption-prediction/blob/main/E
 * Presented results with visualizations for better interpretability
 
 
-### 🛠 Tools & Skills Used
+### Tools & Skills Used
 
 * **Languages & Libraries**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 * **Techniques**:
